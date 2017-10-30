@@ -1,0 +1,77 @@
+---
+title: "Resume"
+---
+
+
+
+#Siyuan Ding
+
+sd3179@columbia.edu. (530)-574-9649
+
+Current Address: 100 Haven Avenue Apt.30D, New York, New York 10032. 
+
+Permanent Address: No.146-117, Baishan Road, Shenyang, China.
+
+##Education 
+
+####Columbia University Mailman School of Public Health, New York, NY
+
+Master of Science, Biostatistics/Theory and Method Track, expected May 2019
+- Relative Course: Biostatistics Method, Data Science.
+	
+####University of California, Davis, Davis, CA
+Bachelor of Science, Major in Food Science and Technology
+Bachelor of Art, Major in Economics
+* Dean’s Honor List, Griffin Foreign Student Scholarship.
+
+* Microeconomics Tutor
+
+* Relative Course: Applied Statistics for Biological Science, Design and Statistical Inference of Sensory Science, Econometrics.
+
+
+##Experience                                                                                        
+####Laolongkou Winery Co.,Ltd.                                                          China
+
+Quality Assurance and Control Intern  
+
+- Teamwork with quality assurance group to prepare samples for the experiments of measuring the content of ester and degree of alcohol.
+
+- Organized market surveys to test new product.
+
+- Analyzed data collected from market surveys in Excel and R.
+
+####Guinard Laboratory                                                               Davis, CA
+
+Food Sensory Experiment Volunteer
+
+* Collaborated with 5 research assistants to design and organize data collection with 300 participants of food sensory 
+
+* Prepared preliminary dataset in Excel.
+
+* Performed preliminary data cleaning and data analysis on scores of each attribute of food samples.
+
+* Instructed the process of experiment and communicated with participants.
+
+
+####Shenyang Agriculture University                                                     China
+Research Assistant   
+
+* Collected data in the process of extracting anthocyanin
+
+* Created and developed new formula of protein drinks. 
+
+* Concluded data and generated lab report.
+
+##Skills	                                                                                 
+Character: hard-working, organized, quick learner.
+
+Computer: Proficient in Word, Excel, and PowerPoint, Outlook and email.
+
+Statistical applications included R and STATA. Beginner of SAS.
+Use of LaTex. Beginner of MatLab.
+
+Languages:	Professional fluency in written and oral Mandarin Chinese
+			
+Fluent in written and oral English
+
+Elementary Japanese

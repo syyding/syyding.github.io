@@ -1,0 +1,21 @@
+---
+title: "Siyuan's Website"
+---
+
+### Welcome!
+
+My name is Siyuan Ding. 
+
+I have a lovely cat named Pony.
+
+
+<img src="images/pony.jpg" style="width:60%">
+
+
+### More information
+
+You can find more about me by clicking the icons on the top right corner!
+
+
+
+
